@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 🏫 Catch-U
 
@@ -8,9 +8,7 @@
 
 <br/>
 
-학생들의 작은 불편 제보를 연결하여  
-캠퍼스의 반복되는 문제를 발견하고,  
-관리자가 신속하게 대응할 수 있도록 돕는 서비스
+학생들의 작은 불편 제보를 연결하여 캠퍼스의 반복되는 문제를 발견하고, 관리자가 신속하게 대응할 수 있도록 돕는 서비스
 
 <br/>
 
@@ -95,7 +93,7 @@ Catch-U는 다음과 같은 방식으로 문제를 해결하고자 합니다.
 - 처리 상태별 문제 필터링
 - 문제별 관련 제보, 공감 및 댓글 확인
 
-<div align="center">
+<div align="left">
   <img src="./images/student-home.png" width="320px" alt="학생 홈" />
 </div>
 
@@ -108,7 +106,7 @@ Catch-U는 다음과 같은 방식으로 문제를 해결하고자 합니다.
 - 문제 상황 작성
 - 사진 첨부 및 제보 등록
 
-<div align="center">
+<div align="left">
   <img src="./images/report-create.png" width="320px" alt="제보 등록" />
 </div>
 
@@ -122,7 +120,7 @@ Catch-U는 다음과 같은 방식으로 문제를 해결하고자 합니다.
 - 최근 접수된 제보
 - 문제 상세 및 관련 제보 확인
 
-<div align="center">
+<div align="left">
   <img src="./images/admin-dashboard.png" width="320px" alt="관리자 대시보드" />
 </div>
 
@@ -265,9 +263,10 @@ Catch-U는 다음과 같은 방식으로 문제를 해결하고자 합니다.
 
 | 이름 | 역할 | 담당 |
 | --- | --- | --- |
+| 최가은 | PM | 프로젝트 기획 및 일정 관리, 기능 정의 |
+| 김나래 | UI/UX Designer | UI/UX 디자인 및 화면 설계 |
 | 홍윤지 | Frontend | 학생·관리자 UI 구현 및 API 연동 |
-| 이주희 | Backend | 서버 개발 및 데이터베이스 구축 |
-| 이주희 | AI | AI 분석 기능 개발 |
+| 이주희 | Backend & AI | 서버 개발, 데이터베이스 구축 및 AI 분석 기능 개발 |
 
 ## 🔗 09. 프로젝트 링크
 
@@ -277,7 +276,7 @@ Catch-U는 다음과 같은 방식으로 문제를 해결하고자 합니다.
 | 💻 Frontend | [Frontend Repository](https://github.com/5nel-day1/FE) |
 | ⚙️ Backend | [Backend Repository](https://github.com/5nel-day1/BE) |
 
-<div align="center">
+<div align="left">
 
 ### 🏫 Catch-U
 
